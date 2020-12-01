@@ -176,6 +176,8 @@ p img { margin: 0; }
 p.lead {
    font: 19px/36px 'opensans-light', sans-serif;
    margin-bottom: 18px;
+   font-size: xx-large;
+   font-weight: bold;
 }
 
 /* for 'em' and 'strong' tags, font-size and line-height should be same with

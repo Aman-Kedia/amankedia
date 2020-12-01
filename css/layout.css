@@ -326,7 +326,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .photoshop {
-  	width: 60%;
+  	width: 90%;
   	-moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
 }
@@ -358,7 +358,7 @@ ul#nav li.current a { color: #F06000; }
 
 @-moz-keyframes photoshop {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 90%;  }
 }
 @-moz-keyframes illustrator {
   0%   { width: 0px;  }
@@ -383,7 +383,7 @@ ul#nav li.current a { color: #F06000; }
 
 @-webkit-keyframes photoshop {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 90%;  }
 }
 @-webkit-keyframes illustrator {
   0%   { width: 0px;  }
@@ -825,6 +825,9 @@ call-to-action .button {
 #contact p.lead {
    font: 18px/36px 'opensans-light', sans-serif;
    padding-right: 3%;
+   padding-top: 3%;
+   font-size: xx-large;
+   font-weight: bold;
 }
 #contact .header-col { padding-top: 6px; }
 
