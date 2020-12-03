@@ -218,7 +218,11 @@
 
    /* About Section
    -------------------------------------------------------------------- */
-   #about .profile-pic { display: none; }
+   #about .profile-pic { 
+      margin-bottom: 5%;
+      margin-left: 30%;
+      margin-right: 30%; 
+   }
    #about .download .button {
       width: 100%;
       text-align: center;
