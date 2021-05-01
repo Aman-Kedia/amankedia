@@ -326,85 +326,85 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
-.C_lang {
-  	width: 80%;
-  	-moz-animation: C_lang 2s ease;
-  	-webkit-animation: C_lang 2s ease;
-}
 .Cplus {
-  	width: 70%;
+  	width: 80%;
   	-moz-animation: Cplus 2s ease;
   	-webkit-animation: Cplus 2s ease;
 }
 .python {
-  	width: 55%;
+  	width: 70%;
   	-moz-animation: python 2s ease;
   	-webkit-animation: python 2s ease;
 }
-.html5 {
-   width: 80%;
-   -moz-animation: html5 2s ease;
-   -webkit-animation: html5 2s ease;
+.dsa {
+   width: 60%;
+   -moz-animation: dsa 2s ease;
+   -webkit-animation: dsa 2s ease;
 }
-.css {
-  	width: 70%;
-  	-moz-animation: css 2s ease;
-  	-webkit-animation: css 2s ease;
+.azure {
+   width: 25%;
+   -moz-animation: azure 2s ease;
+   -webkit-animation: azure 2s ease;
+}
+.k8s {
+  	width: 45%;
+  	-moz-animation: k8s 2s ease;
+  	-webkit-animation: k8s 2s ease;
 }
 .sql {
-  	width: 50%;
+  	width: 65%;
   	-moz-animation: sql 2s ease;
   	-webkit-animation: sql 2s ease;
 }
 
-@-moz-keyframes C_lang {
-  0%   { width: 0px;  }
-  100% { width: 80%;  }
-}
 @-moz-keyframes Cplus {
   0%   { width: 0px;  }
-  100% { width: 70%;  }
+  100% { width: 80%;  }
 }
 @-moz-keyframes python {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
-}
-@-moz-keyframes html5 {
-   0%   { width: 0px;  }
-   100% { width: 80%;  }
-}
-@-moz-keyframes css {
-  0%   { width: 0px;  }
   100% { width: 70%;  }
+}
+@-moz-keyframes dsa {
+   0%   { width: 0px;  }
+   100% { width: 60%;  }
+ }
+@-moz-keyframes azure {
+   0%   { width: 0px;  }
+   100% { width: 25%;  }
+}
+@-moz-keyframes k8s {
+  0%   { width: 0px;  }
+  100% { width: 40%;  }
 }
 @-moz-keyframes sql {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 65%;  }
 }
 
-@-webkit-keyframes C_lang {
+@-webkit-keyframes Cplus {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-webkit-keyframes Cplus {
-  0%   { width: 0px;  }
-  100% { width: 70%;  }
-}
 @-webkit-keyframes python {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
-}
-@-webkit-keyframes html5 {
-   0%   { width: 0px;  }
-   100% { width: 80%;  }
-}
-@-webkit-keyframes css {
-  0%   { width: 0px;  }
   100% { width: 70%;  }
+}
+@-webkit-keyframes dsa {
+   0%   { width: 0px;  }
+   100% { width: 60%;  }
+ }
+@-webkit-keyframes azure {
+   0%   { width: 0px;  }
+   100% { width: 25%;  }
+}
+@-webkit-keyframes k8s {
+  0%   { width: 0px;  }
+  100% { width: 40%;  }
 }
 @-webkit-keyframes sql {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 65%;  }
 }
 
 /* ------------------------------------------------------------------ */
