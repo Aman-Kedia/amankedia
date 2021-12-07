@@ -346,7 +346,7 @@ ul#nav li.current a { color: #F06000; }
    -webkit-animation: dsa 2s ease;
 }
 .cloud {
-   width: 30%;
+   width: 50%;
    -moz-animation: cloud 2s ease;
    -webkit-animation: cloud 2s ease;
 }
@@ -375,7 +375,7 @@ ul#nav li.current a { color: #F06000; }
  }
 @-moz-keyframes cloud {
    0%   { width: 0px;  }
-   100% { width: 30%;  }
+   100% { width: 50%;  }
 }
 @-moz-keyframes docker {
   0%   { width: 0px;  }
@@ -400,7 +400,7 @@ ul#nav li.current a { color: #F06000; }
  }
 @-webkit-keyframes cloud {
    0%   { width: 0px;  }
-   100% { width: 30%;  }
+   100% { width: 50%;  }
 }
 @-webkit-keyframes docker {
   0%   { width: 0px;  }
